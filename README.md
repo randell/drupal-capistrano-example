@@ -1,0 +1,1 @@
+# drupal-capistrano-example
